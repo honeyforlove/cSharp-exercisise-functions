@@ -10,6 +10,7 @@ namespace Git1
     {
         static void Main(string[] args)
         {
+            int a = 2;
         }
     }
 }
