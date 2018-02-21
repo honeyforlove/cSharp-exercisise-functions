@@ -11,6 +11,8 @@ namespace Git1
         static void Main(string[] args)
         {
             int a = 2;
+            Console.WriteLine("parasykit dar pora eiluciu");
+            Console.ReadLine();
         }
     }
 }
