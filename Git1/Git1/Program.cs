@@ -10,7 +10,10 @@ namespace Git1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("zaidziam");
             int a = 2;
+            Console.WriteLine(a);
+            Console.ReadLine();
         }
     }
 }
